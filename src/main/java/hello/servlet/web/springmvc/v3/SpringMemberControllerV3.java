@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-//controller
 @Controller
 @RequestMapping("/springmvc/v3/members")
 public class SpringMemberControllerV3 {
